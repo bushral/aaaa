@@ -1,0 +1,7 @@
+C:\Users\mike2\Desktop\gitnew\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\LENOVO\Source\Repos\project27\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\LENOVO\Source\Repos\project27\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\LENOVO\Source\Repos\project27\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\LENOVO\Source\Repos\project27\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Source\Repos\project27\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\LENOVO\Source\Repos\project27\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
